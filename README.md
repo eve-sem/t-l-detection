@@ -10,3 +10,5 @@ sentinel_2-10
 
 
 <img width="161" height="61" alt="image" src="https://github.com/user-attachments/assets/0cee1e24-8f5e-4cbc-b86f-9045a17501c9" />
+
+https://www.youtube.com/watch?v=eQybVPHHiNE
