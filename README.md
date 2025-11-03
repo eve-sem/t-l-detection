@@ -1,2 +1,3 @@
 # t-l-detection
 La télédétection est l'ensemble des techniques utilisées pour déterminer à distance les propriétés d'objets naturels ou artificiels à partir des rayonnements ...
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/2f50cef1-73f6-445a-86ca-551e2cf2ed80" />
